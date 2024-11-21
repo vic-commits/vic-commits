@@ -28,6 +28,5 @@ Here are some tools and technologies I work with:
 
 ### 🤝 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/victoria-montano)  
-- 🖥️ [Portfolio](https://github.com/vic-commits)  
-- 📫 Feel free to reach out to me via [Email](vickymon0503@gmail.com)!  
+- 🖥️ [Portfolio](https://github.com/vic-commits)   
 
