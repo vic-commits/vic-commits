@@ -20,7 +20,7 @@ Here are some tools and technologies I work with:
 ---
 
 ### 💡 Current Focus  
-- Building **end-to-end machine learning pipelines**.  
+- Building **end-to-end machine learning projects**.  
 - Diving deeper into **deep learning techniques** using frameworks like **TensorFlow** and **Keras**.  
 - Exploring real-world applications in **health informatics** and **speaker recognition**.  
 
